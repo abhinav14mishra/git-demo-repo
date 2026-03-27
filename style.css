@@ -1,0 +1,13 @@
+body {
+    background-color: #121212;
+    color: #00ff41; /* Classic Matrix/Terminal Green */
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    padding: 2rem;
+}
+
+p {
+    border-left: 3px solid #00ff41;
+    padding-left: 15px;
+    text-transform: uppercase;
+}
